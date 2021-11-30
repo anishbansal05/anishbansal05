@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anishbansal05
 - 👀 I’m new to git
-- 🌱 I’m currently learning web developing
+- 🌱 Trying my hands on front end web development.
 
 
 <!---
